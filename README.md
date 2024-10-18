@@ -1,0 +1,1 @@
+Just a playground for me to test out some things whilst going through the Code Institute Full Stack Developer 16 week Bootcamp.
