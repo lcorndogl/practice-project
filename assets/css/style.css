@@ -4,3 +4,12 @@ h1{
 p{
     font-size:30px;
 }
+.menu{
+    background-color:crimson;
+}
+.footer{
+    background-color:blue;
+}
+div{
+    background-color:grey;
+}
